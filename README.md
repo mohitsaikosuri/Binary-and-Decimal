@@ -1,1 +1,1 @@
-These are basic codes for converting binary to deical and vice versa.
+These are basic codes for converting binary to decimal and vice versa.
